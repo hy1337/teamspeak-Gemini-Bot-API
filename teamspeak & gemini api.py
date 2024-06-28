@@ -12,7 +12,7 @@ from google.generativeai.types import HarmCategory, HarmBlockThreshold
 # ------------------------------- config -------------------------------
 TS_QUERY_USERNAME = "USERNAME"
 TS_QUERY_PASSWORD = "TS_QUERY_PASSWORD"
-TS_ADDRESS = "cr7.haoyuebz.love"
+TS_ADDRESS = "SERVER"
 BOT_DISPLAY_NAME = "Gemini BOT"
 TS_CHANNEL_ID = 1
 MESSAGE_PREFIX = "!BOT"
